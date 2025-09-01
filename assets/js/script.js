@@ -1,0 +1,1 @@
+console.log('Plugin PIX carregado com sucesso!');
